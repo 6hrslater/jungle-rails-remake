@@ -1,3 +1,9 @@
+## Repo INFO
+
+This project was recreated in a new repo due to issues with pushing files to the original repo.
+
+Original repo with outdated code and a LOT of errors: https://github.com/6hrslater/jungle-rails
+
 # Jungle
 
 A mini e-commerce application that allows users to purchase a variety of beautiful plants.
