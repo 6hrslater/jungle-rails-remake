@@ -1,6 +1,6 @@
 ## Repo INFO
 
-This project was recreated in a new repo due to issues with pushing files to the original repo.
+This project was remade and built on the original version at a later time, I had some issues with pulling and pushing files into the original repo. When the issue was noticed, I had to manually add each folder directly to the repo which caused the app to no longer work. Thus the project was moved to a new repo due to issues with pushing files to the original repo.
 
 Original repo with outdated code and a LOT of errors: https://github.com/6hrslater/jungle-rails
 
