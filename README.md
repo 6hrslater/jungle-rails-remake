@@ -8,6 +8,18 @@ Original repo with outdated code and a LOT of errors: https://github.com/6hrslat
 
 A mini e-commerce application that allows users to purchase a variety of beautiful plants.
 
+## Products Page
+
+!["screenshot description"](https://github.com/6hrslater/jungle-rails-remake/blob/master/docs/products%20page.PNG)
+
+## Item Info
+
+!["screenshot description"](https://github.com/6hrslater/jungle-rails-remake/blob/master/docs/product%20info.PNG)
+
+## Shopping Cart
+
+!["screenshot description"](https://github.com/6hrslater/jungle-rails-remake/blob/master/docs/customer%20cart.PNG)
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
